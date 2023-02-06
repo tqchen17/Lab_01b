@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">My App</string>
-    <string name="greet_dad">Nice to meet ya, Tommy Chen</string>
+    <string name="greet_dad">Nice to meet ya, Tommy Chen!</string>
     <string name="number"></string>
+    <string name="switchText">Fun Mode</string>
+
 
 </resources>
